@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 7145dcd0c8a16784e98bb094cb3b290f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip001 R Foot
+    100002: Bip001 HeadNub
+    100004: Bip001 R Finger0Nub
+    100006: Bip001 R Finger1Nub
+    100008: Bip001 R Calf
+    100010: Bip001 R Clavicle
+    100012: Bip001 R Forearm
+    100014: Bip001 L UpperArm
+    100016: Bip001 Neck
+    100018: Bip001 L Calf
+    100020: Bip001 L Toe0Nub
+    100022: Bip001 Pelvis
+    100024: Bip001 L Clavicle
+    100026: Bip001 R UpperArm
+    100028: Goblin_W
+    100030: Bip001 L Thigh
+    100032: Bip001 Spine
+    100034: Bip001 L Finger1Nub
+    100036: Bip001 L Finger1
+    100038: Bip001 Footsteps
+    100040: Bip001 R Hand
+    100042: Goblin_A_W
+    100044: Bip001 Head
+    100046: Light
+    100048: Bip001
+    100050: Bip001 L Forearm
+    100052: Bip001 L Hand
+    100054: Bip001 R Finger1
+    100056: Bip001 L Finger0Nub
+    100058: Goblin_B_W
+    100060: Goblin_B_H
+    100062: Goblin_B_H2
+    100064: Goblin_A_W2
+    100066: Goblin_B_W2
+    100068: Bip001 L Finger0
+    100070: Bip001 R Thigh
+    100072: Bip001 R Finger0
+    100074: Bip001 R Toe0
+    100076: Bip001 L Toe0
+    100078: Bip001 L Foot
+    100080: Bip001 R Toe0Nub
+    100082: Goblin_H
+    100084: Goblin_Body
+    100086: //RootNode
+    100088: Goblin_A_W01
+    100090: Goblin_A_W02
+    100092: Goblin_B_H01
+    100094: Goblin_B_H02
+    100096: Goblin_B_W01
+    100098: Goblin_B_W02
+    100100: Goblin_C_H01
+    100102: Goblin_C_W01
+    100104: Goblin_D_H01
+    100106: Goblin_D_W01
+    100108: stun_bone
+    400000: Bip001 R Foot
+    400002: Bip001 HeadNub
+    400004: Bip001 R Finger0Nub
+    400006: Bip001 R Finger1Nub
+    400008: Bip001 R Calf
+    400010: Bip001 R Clavicle
+    400012: Bip001 R Forearm
+    400014: Bip001 L UpperArm
+    400016: Bip001 Neck
+    400018: Bip001 L Calf
+    400020: Bip001 L Toe0Nub
+    400022: Bip001 Pelvis
+    400024: Bip001 L Clavicle
+    400026: Bip001 R UpperArm
+    400028: Goblin_W
+    400030: Bip001 L Thigh
+    400032: Bip001 Spine
+    400034: Bip001 L Finger1Nub
+    400036: Bip001 L Finger1
+    400038: Bip001 Footsteps
+    400040: Bip001 R Hand
+    400042: Goblin_A_W
+    400044: Bip001 Head
+    400046: Light
+    400048: Bip001
+    400050: Bip001 L Forearm
+    400052: Bip001 L Hand
+    400054: Bip001 R Finger1
+    400056: Bip001 L Finger0Nub
+    400058: Goblin_B_W
+    400060: Goblin_B_H
+    400062: Goblin_B_H2
+    400064: Goblin_A_W2
+    400066: Goblin_B_W2
+    400068: Bip001 L Finger0
+    400070: Bip001 R Thigh
+    400072: Bip001 R Finger0
+    400074: Bip001 R Toe0
+    400076: Bip001 L Toe0
+    400078: Bip001 L Foot
+    400080: Bip001 R Toe0Nub
+    400082: Goblin_H
+    400084: Goblin_Body
+    400086: //RootNode
+    400088: Goblin_A_W01
+    400090: Goblin_A_W02
+    400092: Goblin_B_H01
+    400094: Goblin_B_H02
+    400096: Goblin_B_W01
+    400098: Goblin_B_W02
+    400100: Goblin_C_H01
+    400102: Goblin_C_W01
+    400104: Goblin_D_H01
+    400106: Goblin_D_W01
+    400108: stun_bone
+    4300000: Goblin_Body
+    4300002: Goblin_B_W2
+    4300004: Goblin_A_W2
+    4300006: Goblin_B_H2
+    4300008: Goblin_B_H
+    4300010: Goblin_B_W
+    4300012: Light
+    4300014: Goblin_A_W
+    4300016: Goblin_B_W02
+    4300018: Goblin_A_W02
+    4300020: Goblin_B_H02
+    4300022: Goblin_B_H01
+    4300024: Goblin_B_W01
+    4300026: Goblin_A_W01
+    4300028: Goblin_C_H01
+    4300030: Goblin_C_W01
+    4300032: Goblin_D_H01
+    4300034: Goblin_D_W01
+    7400000: Goblin_idle
+    7400002: Goblin_ABC
+    7400004: D_idle
+    11100000: //RootNode
+    13700000: Goblin_A_W
+    13700002: Light
+    13700004: Goblin_B_W
+    13700006: Goblin_B_H
+    13700008: Goblin_B_H2
+    13700010: Goblin_A_W2
+    13700012: Goblin_B_W2
+    13700014: Goblin_Body
+    13700016: Goblin_A_W01
+    13700018: Goblin_A_W02
+    13700020: Goblin_B_H01
+    13700022: Goblin_B_H02
+    13700024: Goblin_B_W01
+    13700026: Goblin_B_W02
+    13700028: Goblin_C_H01
+    13700030: Goblin_C_W01
+    13700032: Goblin_D_H01
+    13700034: Goblin_D_W01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
